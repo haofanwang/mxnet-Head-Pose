@@ -11,3 +11,10 @@ But we further exploits this problem and achieve state of the art performance. D
 <div align="center">
   <img src="https://github.com/haofanwang/mxnet-headpose/blob/master/example.jpg" width="380"><br><br>
 </div>
+
+
+```
+  author    = {Haofan Wang}
+  institute  = {Horizon Robotics}
+}
+```
