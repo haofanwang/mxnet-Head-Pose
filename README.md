@@ -17,6 +17,6 @@ But we further exploits this problem and achieve state of the art performance. D
 {
   author    = {Haofan Wang}
   institute  = {Horizon Robotics}
-  contact = {haofanwang@horizon.ai}
+  contact = {haofan.wang@horizon.ai}
 }
 ```
