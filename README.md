@@ -1,10 +1,6 @@
 # mxnet-headpose
 An MXNet implementation of Fine-Grained Head Pose.
 
-<div align="center">
-  <img src="https://github.com/haofanwang/mxnet-headpose/blob/master/example.jpg" width="380"><br><br>
-</div>
-
 The original Pytorch version is [here](https://github.com/natanielruiz/deep-head-pose)
 
 # Demo
